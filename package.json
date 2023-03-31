@@ -1,0 +1,11 @@
+{
+	"name": "is24-full-stack-competition",
+	"version": "1.0.0",
+	"description": "IS24 Full Stack Competition Submission",
+	"author": "Noor Chasib",
+	"license": "ISC",
+	"scripts": {
+		"start:frontend": "cd frontend && npm i && npm run dev",
+		"start:backend": "cd backend && npm i && npm run dev"
+	}
+}
