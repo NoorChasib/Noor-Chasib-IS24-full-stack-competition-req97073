@@ -1,6 +1,6 @@
 ## **Introduction**
 
-As part of the Code Challenge for IS 24 Full Stack Developer Posting this Web Application tracks and manages Web Applications developed by the Province of BC as described by the supplied User Stories.
+As part of the Code Challenge for the IS 24 Full Stack Developer Posting, this Web Application tracks and manages Web Applications developed by the Province of BC as described by the supplied User Stories.
 
 ## **How to run the app**
 
